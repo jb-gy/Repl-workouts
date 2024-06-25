@@ -12,7 +12,7 @@ def reverse_only_letters(s):
 
   flipped = char_positions[::-1]
   print(flipped)
-  print(others)
+  #print(others)
   
  
 
